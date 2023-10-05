@@ -5,9 +5,9 @@
 1. [Introduction](#introduction)
 2. [Questions](#questions)
 3. [Data Wrangling](#data-wrangling)
-4. [Conclusion](#conclusion)
-5. [Python Packages](#python-packages)
-6. [Visualizations](#visualizations)
+4. [Python Packages](#python-packages) 
+5. [Visualizations](#visualizations)
+6. [Conclusion](#conclusion)
 7. [Contact Information](#contact-information)
 
 
@@ -50,6 +50,18 @@ import numpy as np
 ```
 
 
+
+## Visualizations <a name="visualizations"></a>
+
+![Picture](https://github.com/zanxibar/Appointment-Data-Analysis-Project/assets/78570289/af7e66ba-2f2c-43c9-889b-e4f054e932f2)
+
+
+![show_up_pie_chart](https://github.com/zanxibar/Appointment-Data-Analysis-Project/assets/78570289/ba39bd45-2c58-48b3-ae99-4d661db8ef96)
+
+
+
+
+
 ## Conclusion <a name="conclusion"></a>
 
 The analysis has yielded the following key findings:
@@ -62,6 +74,7 @@ The analysis has yielded the following key findings:
 - Among the females, 92% are not diabetic, representing the majority, while 8% are diabetic. This includes 38 female children and 5,568 female adults.
 
 These findings provide valuable insights into appointment attendance and diabetes prevalence within the dataset. It's essential to consider these results as a starting point for further analysis and research.
+
 
 
 ## Contact Information <a name="contact-information"></a>
