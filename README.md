@@ -12,12 +12,10 @@
 
 
 ## Introduction <a name="introduction"></a>
-## Introduction
 This data analysis project focuses on examining the 'noshowappointments-kagglev2-may-2016.csv' dataset, which contains information about patients and whether or not they attended their scheduled appointments.
 
 
 ## Questions <a name="questions"></a>
-## Questions
 The project aims to answer several key questions:
 1. How many females and males are represented in the dataset?
 2. What is the attendance percentage for males and females?
@@ -28,7 +26,6 @@ The project aims to answer several key questions:
 
 
 ## Data Wrangling <a name="data-wrangling"></a>
-## Data Wrangling
 The initial phase of the analysis involves data wrangling tasks to prepare the dataset for examination. This includes:
 - Loading the dataset
 - Validating data types
@@ -54,7 +51,6 @@ import numpy as np
 
 
 ## Conclusion <a name="conclusion"></a>
-## Conclusion
 
 The analysis has yielded the following key findings:
 
