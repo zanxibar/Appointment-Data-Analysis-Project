@@ -1,8 +1,22 @@
 # Appointment Dataset Analysis
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Questions](#questions)
+3. [Data Wrangling](#data-wrangling)
+4. [Conclusion](#conclusion)
+5. [Python Packages](#python-packages)
+6. [Visualizations](#visualizations)
+7. [Contact Information](#contact-information)
+
+
+## Introduction <a name="introduction"></a>
 ## Introduction
 This data analysis project focuses on examining the 'noshowappointments-kagglev2-may-2016.csv' dataset, which contains information about patients and whether or not they attended their scheduled appointments.
 
+
+## Questions <a name="questions"></a>
 ## Questions
 The project aims to answer several key questions:
 1. How many females and males are represented in the dataset?
@@ -12,6 +26,8 @@ The project aims to answer several key questions:
 5. Are there female children with diabetes, and if so, how many?
 6. How many individuals with diabetes and alcoholism attended their appointments, and how many missed them?
 
+
+## Data Wrangling <a name="data-wrangling"></a>
 ## Data Wrangling
 The initial phase of the analysis involves data wrangling tasks to prepare the dataset for examination. This includes:
 - Loading the dataset
@@ -20,7 +36,7 @@ The initial phase of the analysis involves data wrangling tasks to prepare the d
 - Eliminating duplicate entries
 - Cleaning and transforming the data as necessary
 
-
+## Python Packages <a name="python-packages"></a>
 To conduct this analysis, we've utilized the following Python packages:
 
 - [Pandas](https://pandas.pydata.org/): A powerful data manipulation library for working with structured data.
@@ -37,6 +53,7 @@ import numpy as np
 ```
 
 
+## Conclusion <a name="conclusion"></a>
 ## Conclusion
 
 The analysis has yielded the following key findings:
@@ -51,4 +68,5 @@ The analysis has yielded the following key findings:
 These findings provide valuable insights into appointment attendance and diabetes prevalence within the dataset. It's essential to consider these results as a starting point for further analysis and research.
 
 
+## Contact Information <a name="contact-information"></a>
 For any questions or suggestions, please contact Som Patrick at [somsompatrick17@gmail.com](mailto:somsompatrick17@gmail.com).
